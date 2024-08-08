@@ -1,0 +1,15 @@
+.header-section {
+    display: flex;
+    background-color: whitesmoke;
+}
+
+.body-section {
+    display:flex;
+    flex-direction: column;
+}
+
+.footer-section {
+    display:flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
